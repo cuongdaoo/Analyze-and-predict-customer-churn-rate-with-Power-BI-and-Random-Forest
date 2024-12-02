@@ -1,7 +1,9 @@
 # Analyze-and-predict-customer-churn-rate-with-Power-BI-and-Random-Forest
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/eb154210-3b2e-467f-808b-1b14787fa97a" alt="mô tả" width="600">
+  <img src="https://github.com/user-attachments/assets/e87a9a1f-fb25-45ac-abb0-c3f6bf22e674" alt="mô tả" width="600">
 </div>
+
+
 # I. Goal
 Objective:
 - Maximize Revenue
