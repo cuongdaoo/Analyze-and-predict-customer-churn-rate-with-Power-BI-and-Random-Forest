@@ -158,4 +158,12 @@
   <img src="https://github.com/user-attachments/assets/300d0a98-ab43-493f-8b40-1bf24f45a5e5" alt="mô tả" width="600">
 </div>
 
+---
+## III. **Churn Prediction**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/565c9723-9aca-49e0-a05a-4f8c2a948748" alt="mô tả" width="600">
+</div>
+
+
 
