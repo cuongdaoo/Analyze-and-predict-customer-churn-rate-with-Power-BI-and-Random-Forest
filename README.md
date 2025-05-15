@@ -14,7 +14,7 @@ Telecommunications companies provide services such as telephone and internet.
   <img src="https://github.com/user-attachments/assets/6ff14952-c2f2-4b66-a8d8-bd3fa49adc80" alt="mô tả" width="600">
 </div>
 
-# III. Data ovewview
+# III. Data overoverview
 Telecom customer churn data overview
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f404651c-e800-4a23-9711-faa43fcd1ee1" alt="mô tả" width="800">
@@ -121,3 +121,11 @@ Visual prediction data into Power BI
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ca6cd96a-f78f-4ed1-9c2a-e40ccded972a" alt="mô tả" width="800">
 </div>
+
+# V. Project Resources
+
+* 📘 **Jupyter Notebook**:
+  [View full notebook here](https://colab.research.google.com/drive/1vhvW9R7sDLYAKj1x2DKFIXYLzOltbSzG?authuser=0#scrollTo=KicYDDfgbg0T&uniqifier=2)
+
+* 📑 **Detailed Analysis Report**:
+  [Access the full report here](https://www.canva.com/design/DAGm4BXrZic/XiQMjaRJ1iWhhSAYt6aUSw/edit?ui=eyJIIjp7IkEiOnRydWV9fQ)
