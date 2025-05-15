@@ -125,7 +125,7 @@ Visual prediction data into Power BI
 # V. Project Resources
 
 * 📘 **Jupyter Notebook**:
-  [View full notebook here](https://colab.research.google.com/drive/1vhvW9R7sDLYAKj1x2DKFIXYLzOltbSzG?authuser=0#scrollTo=KicYDDfgbg0T&uniqifier=2)
+  [View full notebook here](https://github.com/cuongdaoo/Analyze-and-predict-customer-churn-rate-with-Power-BI-and-Random-Forest/blob/main/Churn_Analyst.ipynb)
 
 * 📑 **Detailed Analysis Report**:
-  [Access the full report here](https://www.canva.com/design/DAGm4BXrZic/XiQMjaRJ1iWhhSAYt6aUSw/edit?ui=eyJIIjp7IkEiOnRydWV9fQ)
+  [Access the full report here](https://github.com/cuongdaoo/Analyze-and-predict-customer-churn-rate-with-Power-BI-and-Random-Forest/blob/main/Analysis.md)
